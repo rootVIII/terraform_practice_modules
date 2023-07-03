@@ -51,7 +51,7 @@ variable "vpc_tags" {
 }
 
 variable "ami" {
-  description = "Amazone Linux AMI"
+  description = "Amazon Linux AMI"
   type        = string
   default     = "ami-0fc9e52ba2aedb00d"
 }
